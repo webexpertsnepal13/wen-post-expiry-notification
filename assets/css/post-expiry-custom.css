@@ -1,0 +1,14 @@
+/*Css for the plugin*/
+.post-expiry-settings input[type='text'],
+.post-expiry-settings input[type='email']{
+    width: 100%;
+    padding: 8px 10px;
+    margin: 8px 0 15px;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.post-expiry-settings label{
+	font-weight:  600;
+}
