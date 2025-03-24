@@ -1,10 +1,10 @@
 === WEN Post Expiry Notification ===
 Contributors: webexpertsnepal
 Tags: post expiry, expiry notification
-Requires at least: 4.4
-Tested up to: 5.2.2
-Stable tag: 1.1
-Requires PHP: 5.5
+Requires at least: 6.0
+Tested up to: 6.7
+Stable tag: 1.2
+Requires PHP: 7.4
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -28,6 +28,10 @@ Features:
 3. Backend: Meta box on post edit page
 
 == Changelog ==
+
+= 1.2 =
+* Compatibility with WordPress 6.7
+* Updated required PHP and WordPress version
 
 = 1.1 =
 * Fix: Invalid timezone

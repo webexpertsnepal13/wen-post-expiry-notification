@@ -2,7 +2,7 @@
 /*
  * Plugin Name:  WEN Post Expiry Notification
  * Description:  Set expiry date on posts and custom post types, and send email notification on their expiry.
- * Version:      1.1
+ * Version:      1.2
  * Author:       Web Experts Nepal
  * Author URI:   https://www.webexpertsnepal.com/
  * Text Domain:  wen-post-expiry-notification
